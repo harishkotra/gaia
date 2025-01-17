@@ -3,7 +3,7 @@
   "version": "0.0.5",
   "main": "index.js",
   "bin": {
-    "gaia": "./bin/gaia-deploy.js"
+    "gaia-deploy": "./bin/gaia-deploy.js"
   },
   "scripts": {
     "start": "node bin/gaia-deploy.js"
