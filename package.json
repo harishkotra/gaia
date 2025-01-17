@@ -1,14 +1,21 @@
 {
   "name": "gaia-deploy",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "bin": {
     "gaia": "./bin/gaia-deploy.js"
   },
   "scripts": {
-    "start": "node bin/gaia-deployjs"
+    "start": "node bin/gaia-deploy.js"
   },
-  "keywords": ["gaia", "gaianet", "node", "cli", "ai", "ai inference"],
+  "keywords": [
+    "gaia",
+    "gaianet",
+    "node",
+    "cli",
+    "ai",
+    "ai inference"
+  ],
   "author": "Harish Kotra",
   "license": "MIT",
   "description": "A package to automatically install and start a Gaia node with customizable models.",
