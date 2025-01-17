@@ -3,10 +3,10 @@
   "version": "0.0.3",
   "main": "index.js",
   "bin": {
-    "gaia": "./bin/gaia.js"
+    "gaia": "./bin/gaia-deploy.js"
   },
   "scripts": {
-    "start": "node bin/gaia.js"
+    "start": "node bin/gaia-deployjs"
   },
   "keywords": ["gaia", "gaianet", "node", "cli", "ai", "ai inference"],
   "author": "Harish Kotra",
