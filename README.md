@@ -65,7 +65,7 @@ gaia-deploy --model https://raw.githubusercontent.com/GaiaNet-AI/node-configs/ma
 You can also use the `initGaiaNode` function programmatically in your Node.js or TypeScript projects:
 
 ```bash
-const { initGaiaNode } = require('gaia');
+const { initGaiaNode } = require('gaia-deploy');
 
 // URL to the model configuration JSON
 const modelConfigUrl = 'https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json';
