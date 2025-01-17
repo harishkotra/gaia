@@ -1,6 +1,6 @@
 {
   "name": "gaia-deploy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "bin": {
     "gaia": "./bin/gaia.js"
@@ -19,6 +19,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/harishkotra/gaia.git"
+    "url": "https://github.com/harishkotra/gaia-deploy.git"
   }
 }
