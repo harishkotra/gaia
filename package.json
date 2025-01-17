@@ -1,0 +1,24 @@
+{
+  "name": "gaia-npm",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "gaia": "./bin/gaia.js"
+  },
+  "scripts": {
+    "start": "node bin/gaia.js"
+  },
+  "keywords": ["gaia", "gaianet", "node", "cli", "ai", "ai inference"],
+  "author": "Harish Kotra",
+  "license": "MIT",
+  "description": "A package to automatically install and start a Gaia node with customizable models.",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "shelljs": "^0.8.5",
+    "yargs": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harishkotra/gaia.git"
+  }
+}
