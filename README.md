@@ -1,6 +1,6 @@
-# Gaia
+# Gaia Deploy
 
-`gaia` is an NPM package that simplifies the installation, initialization, and startup of a **GaiaNet node**. It allows developers to easily set up a GaiaNet node with customizable model configurations, making it an ideal tool for building AI-powered applications.
+`gaia-deploy` is an NPM package that simplifies the installation, initialization, and startup of a **Gaia node**. It allows developers to easily set up a Gaia node with customizable model configurations, making it an ideal tool for building AI-powered applications.
 
 ---
 
@@ -40,10 +40,10 @@ Here’s how it can help:
 
 ## Installation
 
-To install the `gaia` package globally, run:
+To install the `gaia-deploy` package globally, run:
 
 ```bash
-npm install -g gaia
+npm install -g gaia-deploy
 ```
 
 ## Usage
@@ -51,13 +51,13 @@ npm install -g gaia
 To start a Gaia node with the default model configuration, run:
 
 ```bash
-gaia
+gaia-deploy
 ```
 
 To use a custom model configuration, provide the URL to the configuration file using the `--model` flag:
 
 ```bash
-gaia --model https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
+gaia-deploy --model https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
 ```
 
 ## Usage
@@ -119,8 +119,8 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 Start building AI-powered applications with Gaia. Install the package and deploy your first GaiaNet node in minutes:
 
 ```bash
-npm install -g gaia
-gaia --model https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
+npm install -g gaia-deploy
+gaia-deploy --model https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/llama-3.2-3b-instruct/config.json
 ```
 
 > Find many other node configurations from Gaia's [node-configs](https://github.com/GaiaNet-AI/node-configs) repository.  There are several pre-set node configs for you to choose.
