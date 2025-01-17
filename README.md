@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Easy Installation:** Automates the installation of the GaiaNet node with a single command.
+- **Easy Installation:** Automates the installation of the Gaia node with a single command.
 - **Customizable Models:** Supports custom model configurations via a URL.
 - **CLI and Programmable API:** Can be used as a command-line tool or integrated into Node.js/TypeScript projects.
 - **Cross-Platform:** Works on Linux, macOS, and Windows (via WSL).
@@ -21,7 +21,7 @@ Gaia is designed to help **application developers** quickly integrate Gaia nodes
 Here’s how it can help:
 
 1. **Simplify Node Setup:**
-   - Automates the installation and configuration of GaiaNet nodes, saving developers time and effort.
+   - Automates the installation and configuration of Gaia nodes, saving developers time and effort.
    - No need to manually download and configure dependencies.
 
 2. **Customizable AI Models:**
@@ -34,7 +34,7 @@ Here’s how it can help:
    - Gaia is open source, so developers can modify and extend it to suit their requirements.
 
 5. **Community Support:**
-   - Join a growing community of developers building AI-powered applications with GaiaNet.
+   - Join a growing community of developers building AI-powered applications with Gaia.
 
 ---
 
@@ -116,7 +116,7 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 
 ## Get Started Today!
 
-Start building AI-powered applications with Gaia. Install the package and deploy your first GaiaNet node in minutes:
+Start building AI-powered applications with Gaia. Install the package and deploy your first Gaia node in minutes:
 
 ```bash
 npm install -g gaia-deploy
