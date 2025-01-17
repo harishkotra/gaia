@@ -2,6 +2,10 @@
 
 `gaia-deploy` is an NPM package that simplifies the installation, initialization, and startup of a **Gaia node**. It allows developers to easily set up a Gaia node with customizable model configurations, making it an ideal tool for building AI-powered applications.
 
+## How to install & use `gaia-deploy`
+
+https://github.com/user-attachments/assets/d7e85c1c-a241-4c95-bd2a-59cf611a5fc4
+
 ---
 
 ## Features
