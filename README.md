@@ -1,5 +1,7 @@
 # Gaia Deploy
 
+![NPM Downloads](https://img.shields.io/npm/dw/:gaia-deploy)
+
 `gaia-deploy` is an NPM package that simplifies the installation, initialization, and startup of a **Gaia node**. It allows developers to easily set up a Gaia node with customizable model configurations, making it an ideal tool for building AI-powered applications.
 
 ## How to install & use `gaia-deploy`
